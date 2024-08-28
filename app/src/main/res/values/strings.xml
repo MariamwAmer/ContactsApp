@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string name="auntie">Auntie</string>
+    <string name="auntie_num">+201012345678</string>
+    <string name="brother">Brother</string>
+    <string name="brother_num">+201123456789</string>
+    <string name="daughter">Daughter</string>
+    <string name="daughter_num">+201234567890</string>
+    <string name="friend1">Friend 1</string>
+    <string name="friend1_num">+2012345678901</string>
+    <string name="friend2">Friend 2</string>
+    <string name="friend2_num">+201456789012</string>
+    <string name="grandfather">GrandFather</string>
+    <string name="grandfather_num">+201567890123</string>
+    <string name="granny">Granny</string>
+    <string name="granny_num">+201678901234</string>
+    <string name="neighbour">Neighbour</string>
+    <string name="neighbour_num">+201789012345</string>
+    <string name="sister">Sister</string>
+    <string name="sister_num">+201890123456</string>
+    <string name="son">Son</string>
+    <string name="son_num">+201890123456</string>
+    <string name="uncle">Uncle</string>
+    <string name="uncle_num">+2019012345678</string>
+
+
+
+
+
+</resources>
